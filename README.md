@@ -42,10 +42,4 @@ I'm Mark from Ukraine!
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="30" height="30"/>
 </div>
 
-## 🔧 Specialized Skills
-- Reverse Engineering
-- Backend Development
-- Game Development (UE5)
-- Full Stack Web Development
-
 ---
