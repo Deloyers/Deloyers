@@ -1,15 +1,14 @@
 # Hey there 👋
-
 <div align="center">
-  <img src="https://github.com/Deloyers.png" alt="Avatar" width="100" height="100" style="border-radius: 50%;"/>
+  <img src="https://github.com/Deloyers.png" alt="Avatar" width="200" height="200" style="border-radius: 50%;"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <a href="https://discordapp.com/users/884823370984751115/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="150"/>
   </a>
   <a href="https://t.me/root_tsurugi">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="150"/>
   </a>
 </div>
 
@@ -17,7 +16,6 @@
 
 ## 👨‍💻 About Me
 I'm Mark from Ukraine!
-
 - ⚙️ Learning Python / C++ / UE5
 - 🌐 Working on websites
 - 🔍 Passionate about reverse engineering
