@@ -1,25 +1,3 @@
-# Hey there 👋
-<div align="center">
-  <img src="https://github.com/Deloyers.png" alt="Avatar" width="200" height="200" style="border-radius: 50%;"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="https://discordapp.com/users/884823370984751115/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="150"/>
-  </a>
-  <a href="https://t.me/root_tsurugi">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="150"/>
-  </a>
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-I'm Mark from Ukraine!
-- ⚙️ Learning Python / C++ / UE5
-- 🌐 Working on websites
-- 🔍 Passionate about reverse engineering
-
 ## 🛠️ Language and tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -36,6 +14,29 @@ I'm Mark from Ukraine!
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=retrilzzy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 📈 Weekly Development Breakdown
+```text
+Python      4 hrs 32 mins   ███████████░░░░   45.23% 
+C++         2 hrs 15 mins   ██████░░░░░░░░░   22.45% 
+HTML/CSS    1 hr 45 mins    ████░░░░░░░░░░░   17.32% 
+JavaScript  1 hr 30 mins    ███░░░░░░░░░░░░   15.00%
+```
+
+## 🎯 Current Focus
+```python
+class CurrentGoals:
+    def __init__(self):
+        self.learning = ["Advanced Python", "Game Development", "Reverse Engineering"]
+        self.working_on = ["Personal Website", "Discord Bot", "Game Mods"]
+        self.interests = ["System Programming", "Game Hacking", "Web Security"]
+```
