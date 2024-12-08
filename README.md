@@ -108,3 +108,25 @@ Vim             4 hrs 35 mins   ████░░░░░░░░░░░░
 Docker          6 hrs 15 mins   █████████░░░░░░░   85.23%
 Kubernetes      1 hr 5 mins     █░░░░░░░░░░░░░░░   14.77%
 ```
+
+## 👨‍💻 About Me
+## 👨‍💻 About Me
+```html
+<div align="center">
+  <p>I'm a versatile software developer with extensive experience across multiple programming languages and technologies. My expertise spans from low-level systems programming in C++ and Rust to high-level web development using modern JavaScript frameworks. I'm passionate about building scalable solutions and constantly exploring new technologies.</p>
+
+  <h3>Key Focus Areas:</h3>
+  <ul>
+    <li>Full-stack web development</li>
+    <li>Systems programming</li>
+    <li>Cloud infrastructure & DevOps</li>
+    <li>Mobile app development</li>
+    <li>Database design & optimization</li>
+    <li>Security implementation</li>
+  </ul>
+
+  <p>I believe in writing clean, maintainable code and following best practices in software development. Always open to collaboration and new challenging projects!</p>
+
+  <i>Let's connect and build something amazing together!</i>
+</div>
+```
