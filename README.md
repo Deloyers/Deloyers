@@ -110,23 +110,5 @@ Kubernetes      1 hr 5 mins     █░░░░░░░░░░░░░░░
 ```
 
 ## 👨‍💻 About Me
-## 👨‍💻 About Me
-```html
-<div align="center">
-  <p>I'm a versatile software developer with extensive experience across multiple programming languages and technologies. My expertise spans from low-level systems programming in C++ and Rust to high-level web development using modern JavaScript frameworks. I'm passionate about building scalable solutions and constantly exploring new technologies.</p>
 
-  <h3>Key Focus Areas:</h3>
-  <ul>
-    <li>Full-stack web development</li>
-    <li>Systems programming</li>
-    <li>Cloud infrastructure & DevOps</li>
-    <li>Mobile app development</li>
-    <li>Database design & optimization</li>
-    <li>Security implementation</li>
-  </ul>
-
-  <p>I believe in writing clean, maintainable code and following best practices in software development. Always open to collaboration and new challenging projects!</p>
-
-  <i>Let's connect and build something amazing together!</i>
-</div>
-```
+I'm a versatile developer with experience in a variety of programming languages including Python, C++, Java, JavaScript, Rust, and many others. I specialize in both web and software development, utilizing frameworks like React, Node.js, Django, and Flask, alongside a wide array of databases and tools. My passion lies in creating clean, efficient, and scalable code while always seeking to improve and learn new technologies. I am constantly evolving as a developer, exploring new areas like machine learning, mobile development, and DevOps, all while striving for excellence in every project I undertake.
